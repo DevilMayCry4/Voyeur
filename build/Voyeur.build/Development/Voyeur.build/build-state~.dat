@@ -1,0 +1,535 @@
+TVoyeur
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource InfoWindowController.h build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h
+cCpResource VoyeurAppKitExtras.h build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h
+cCpResource VoyeurApp.h build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h
+cCpResource VoyeurDataSource.h build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h
+cCpResource VoyeurDocument.h build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h
+cCpResource VoyeurFont.h build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h
+cCpResource VoyeurNode.h build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h
+cCpResource FontList.h build/Development/Voyeur.app/Contents/Resources/FontList.h
+cCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xib
+cCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib
+cCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o /Users/user/Documents/第三方Github/PDF-Voyeur/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur normal i386
+cTouch /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E1EC0540000000000006560
+t1310638164
+s25952
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoPlist.strings
+c00000000517B339E0000000000000120
+t1367028638
+s288
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib
+c00000000517B339E0000000000005001
+t1367028638
+s20481
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xib
+c00000000517B339E000000000000B8DF
+t1367028638
+s47327
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib
+c00000000517B339E000000000000E507
+t1367028638
+s58631
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/FontList.h
+c00000000517B339E0000000000000A77
+t1367028638
+s2679
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m
+c00000000517B339E000000000000139A
+t1367028638
+s5018
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.h
+c00000000517B339E0000000000000B42
+t1367028638
+s2882
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m
+c00000000517B339E000000000000145B
+t1367028638
+s5211
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.h
+c00000000517B339E0000000000000A19
+t1367028638
+s2585
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m
+c00000000517B339E0000000000000A78
+t1367028638
+s2680
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.h
+c00000000517B339E0000000000000BC1
+t1367028638
+s3009
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m
+c00000000517B339E0000000000001081
+t1367028638
+s4225
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.h
+c00000000517B339E0000000000000B02
+t1367028638
+s2818
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m
+c00000000517B339E0000000000001235
+t1367028638
+s4661
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.h
+c00000000517B339E0000000000000CE6
+t1367028638
+s3302
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m
+c00000000517B339E0000000000001C85
+t1367028638
+s7301
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.h
+c00000000517B339E0000000000000B21
+t1367028638
+s2849
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m
+c00000000517B339E00000000000010F9
+t1367028638
+s4345
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.h
+c00000000517B339E0000000000000BEA
+t1367028638
+s3050
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m
+c00000000517B339E0000000000003288
+t1367028638
+s12936
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Info.plist
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoWindowController.nib
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/VoyeurDocument.nib
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/FontList.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/Voyeur.LinkFileList
+c00000000517B33AD0000000000000481
+t1367028653
+s1153
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/user/Documents/第三方Github/PDF-Voyeur/main.m
+c00000000517B339E0000000000000A22
+t1367028638
+s2594
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c00000000517B339E0000000000000566
+t1367028638
+s1382
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m
+r0
+
+CBuild AST from /Users/user/Documents/第三方Github/PDF-Voyeur/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies62f5932d6b2bb741^236b9d2d6b2bb741^---0#1#0#--18"Check dependencies36"C006F517-9914-4553-910A-B25DD162257B-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721455.234590
+e388721455.582931
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m21233c2f6b2bb741^f73a952f6b2bb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/FontList.m0000000000000000^2380"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o FontList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/FontList.o36"30DC54BA-7A62-4908-80B3-C4183B20E3EC-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.129360
+e388721454.788842
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.ma835212e6b2bb741^6ce9c92e6b2bb741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/InfoWindowController.m0000000000000000^2452"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o InfoWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/InfoWindowController.o36"ED1BA2D9-F6C0-4BBD-A034-24F38247C453-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.129884
+e388721454.787644
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m6554212e6b2bb741^d7a2c92e6b2bb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurApp.m0000000000000000^2386"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o VoyeurApp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurApp.o36"71787BE9-B1A8-4076-8C32-0AFE81DEF36A-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.129890
+e388721454.788991
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m0952212e6b2bb741^c2fcc92e6b2bb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurAppKitExtras.m0000000000000000^2440"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o VoyeurAppKitExtras.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurAppKitExtras.o36"9F09E1B6-00DA-4C1E-8433-691E47B3AD98-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.788387
+e388721455.317553
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.mc8efc92e6b2bb741^1553512f6b2bb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurDataSource.m0000000000000000^2428"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o VoyeurDataSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDataSource.o36"0BD6868F-8975-4F8D-8EDE-C82C2F910E71-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.788390
+e388721455.297529
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.mfbe7c92e6b2bb741^dc2a4c2f6b2bb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurDocument.m0000000000000000^2416"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o VoyeurDocument.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurDocument.o36"8CD6F115-CCFF-42F4-B2CB-1D4564E7A934-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.790074
+e388721455.233298
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m4c55ca2e6b2bb741^9db93b2f6b2bb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurFont.m0000000000000000^2392"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o VoyeurFont.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurFont.o36"CDAC3C19-2DC9-4FA5-9A95-D8FE2A75E4A9-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.790068
+e388721455.319179
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m145aca2e6b2bb741^06bb512f6b2bb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/VoyeurNode.m0000000000000000^2392"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o VoyeurNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/VoyeurNode.o36"90C97D77-7AEC-4E7D-93E1-90482B248BF5-
+
+CCompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o /Users/user/Documents/第三方Github/PDF-Voyeur/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388721454.129364
+e388721454.787183
+r1
+xCompileC
+xbuild/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o
+x/Users/user/Documents/第三方Github/PDF-Voyeur/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/user/Documents/第三方Github/PDF-Voyeur/main.mfc35212e6b2bb741^7f84c92e6b2bb741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/main.m0000000000000000^2356"CompileC build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Voyeur.hmap -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources/i386 -I/Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/DerivedSources -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -MMD -MT dependencies -MF /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.dia -c /Users/user/Documents/第三方Github/PDF-Voyeur/main.m -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/main.o36"C6B0E30D-01D9-482B-95D1-E1243B9FA79D-
+
+CCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib
+s388721453.651449
+e388721453.681777
+r1
+xCompileXIB
+x/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib4ed4a62d6b2bb741^94bcae2d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/English.lproj/InfoWindowController.xib0000000000000000^567"CompileXIB English.lproj/InfoWindowController.xib    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoWindowController.nib /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/InfoWindowController.xib --sdk ""36"48D4BE2E-7215-4440-A257-DDECCDDE4C4D-
+
+CCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xib
+s388721453.648481
+e388721453.682471
+r1
+xCompileXIB
+x/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compiling /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xibc30fa62d6b2bb741^82c4ae2d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/English.lproj/MainMenu.xib0000000000000000^531"CompileXIB English.lproj/MainMenu.xib    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/MainMenu.nib /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/MainMenu.xib --sdk ""36"90EBAE3E-3D96-4DDB-8CC5-AF83C6356B9B-
+
+CCompileXIB /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib
+s388721453.651817
+e388721454.121448
+r1
+xCompileXIB
+x/Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xibabe9a62d6b2bb741^37171f2e6b2bb741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib0000000000000000^549"CompileXIB English.lproj/VoyeurDocument.xib    cd /Users/user/Documents/第三方Github/PDF-Voyeur    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/VoyeurDocument.nib /Users/user/Documents/第三方Github/PDF-Voyeur/English.lproj/VoyeurDocument.xib --sdk ""36"32BF2BBE-4327-4EEC-992F-09C4A148F9BC-
+
+CCopyStringsFile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s388721453.632863
+e388721453.641886
+r1
+xCopyStringsFile
+x/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.stringsd313a22d6b2bb741^f46ea42d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/English.lproj/InfoPlist.strings0000000000000000^421"CopyStringsFile build/Development/Voyeur.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"C9ED8DF4-99D1-443B-BBDB-E5560B8F2C10-
+
+CCpResource FontList.h build/Development/Voyeur.app/Contents/Resources/FontList.h
+s388721453.648133
+e388721453.651362
+r1
+xCpResource
+xFontList.h
+xbuild/Development/Voyeur.app/Contents/Resources/FontList.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Development/Voyeur.app/Contents/Resources/FontList.h12faa52d6b2bb741^acc6a62d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/FontList.h000000000080d041^406"CpResource FontList.h build/Development/Voyeur.app/Contents/Resources/FontList.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/FontList.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"86627E7F-4CC9-4A8B-9811-594B02FBB5D9-
+
+CCpResource InfoWindowController.h build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h
+s388721453.633259
+e388721453.642243
+r1
+xCpResource
+xInfoWindowController.h
+xbuild/Development/Voyeur.app/Contents/Resources/InfoWindowController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h6b2ba22d6b2bb741^a471a42d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h000000000080d041^442"CpResource InfoWindowController.h build/Development/Voyeur.app/Contents/Resources/InfoWindowController.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/InfoWindowController.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"AD8D8EC9-5BF3-4C7D-8F13-0255503265AC-
+
+CCpResource VoyeurApp.h build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h
+s388721453.636269
+e388721453.642783
+r1
+xCpResource
+xVoyeurApp.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurApp.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h4eefa22d6b2bb741^7a8ea42d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h000000000080d041^409"CpResource VoyeurApp.h build/Development/Voyeur.app/Contents/Resources/VoyeurApp.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurApp.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"4E290E4C-6988-43CE-8047-E00213FC67C7-
+
+CCpResource VoyeurAppKitExtras.h build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h
+s388721453.633612
+e388721453.642959
+r1
+xCpResource
+xVoyeurAppKitExtras.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h5c3ea22d6b2bb741^029aa42d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h000000000080d041^436"CpResource VoyeurAppKitExtras.h build/Development/Voyeur.app/Contents/Resources/VoyeurAppKitExtras.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurAppKitExtras.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"E4E1883F-B7C9-4D94-A101-611AF894FBE3-
+
+CCpResource VoyeurDataSource.h build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h
+s388721453.643084
+e388721453.647089
+r1
+xCpResource
+xVoyeurDataSource.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h8aada42d6b2bb741^054ea62d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h000000000080d041^430"CpResource VoyeurDataSource.h build/Development/Voyeur.app/Contents/Resources/VoyeurDataSource.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDataSource.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"9FB4FCD3-A019-4D31-AE60-411748315C81-
+
+CCpResource VoyeurDocument.h build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h
+s388721453.643118
+e388721453.646938
+r1
+xCpResource
+xVoyeurDocument.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h10aea42d6b2bb741^994ba62d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h000000000080d041^424"CpResource VoyeurDocument.h build/Development/Voyeur.app/Contents/Resources/VoyeurDocument.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurDocument.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"99E2B0DB-B8F4-47EF-A3D5-EB4B597E8A07-
+
+CCpResource VoyeurFont.h build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h
+s388721453.643435
+e388721453.650270
+r1
+xCpResource
+xVoyeurFont.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurFont.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h37c4a42d6b2bb741^bd8ca62d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h000000000080d041^412"CpResource VoyeurFont.h build/Development/Voyeur.app/Contents/Resources/VoyeurFont.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurFont.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"9A2FC385-99ED-42BB-B65C-AEA6D0922A95-
+
+CCpResource VoyeurNode.h build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h
+s388721453.643433
+e388721453.650745
+r1
+xCpResource
+xVoyeurNode.h
+xbuild/Development/Voyeur.app/Contents/Resources/VoyeurNode.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h43c5a42d6b2bb741^309da62d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h000000000080d041^412"CpResource VoyeurNode.h build/Development/Voyeur.app/Contents/Resources/VoyeurNode.h    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Documents/第三方Github/PDF-Voyeur/VoyeurNode.h /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Resources36"550A8592-5FFD-4B3B-B782-B3D88F2B3A64-
+
+CLd /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur normal i386
+s388721455.589582
+e388721456.091595
+r1
+xLd
+x/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur87fd962f6b2bb741^f77217306b2bb741^---0#0#0#--651"Ld build/Development/Voyeur.app/Contents/MacOS/Voyeur normal i386    cd /Users/user/Documents/第三方Github/PDF-Voyeur    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -L/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -F/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development -filelist /Users/user/Documents/第三方Github/PDF-Voyeur/build/Voyeur.build/Development/Voyeur.build/Objects-normal/i386/Voyeur.LinkFileList -fobjc-link-runtime -framework Cocoa -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/MacOS/Voyeur36"180E01F8-2790-4DCD-B818-75C1C5630A16-
+
+CProcessInfoPlistFile /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Info.plist Info.plist
+s388721453.618421
+e388721453.623362
+r1
+xProcessInfoPlistFile
+x/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistd15d9e2d6b2bb741^53949f2d6b2bb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/user/Documents/%E7%AC%AC%E4%B8%89%E6%96%B9Github/PDF-Voyeur/Info.plist0000000000000000^423"ProcessInfoPlistFile build/Development/Voyeur.app/Contents/Info.plist Info.plist    cd /Users/user/Documents/第三方Github/PDF-Voyeur    builtin-infoPlistUtility Info.plist -genpkginfo /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app/Contents/Info.plist36"EE4418A7-E166-4165-8043-D5E3073C920C-
+
+CTouch /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app
+s388721456.099525
+e388721456.103793
+r1
+xTouch
+x/Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Touch /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.appad8519306b2bb741^4f921a306b2bb741^---0#0#0#--191"Touch build/Development/Voyeur.app    cd /Users/user/Documents/第三方Github/PDF-Voyeur    /usr/bin/touch -c /Users/user/Documents/第三方Github/PDF-Voyeur/build/Development/Voyeur.app36"09E58AAA-1AF4-4B44-B8A6-2AC7119FF551-
+
